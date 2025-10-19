@@ -3,7 +3,7 @@
 ### 📘 Course: Computer Vision — Midterm Project (CAU, Fall 2025)
 Instructors: Dr. I. Atadjanov & Dr. B. Kiani  
 **Team:** MedXplain  
-- Inoyatov Ulughbek (Coordinator)  
+- Inoyatov Ulughbek  
 - Shahzod Numanjonov  
 - Fayzulloh Asatullayev  
 
