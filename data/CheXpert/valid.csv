@@ -1,1 +1,4 @@
-
+Path,No Finding,Cardiomegaly,Edema,Consolidation,Atelectasis,Pneumonia,Pneumothorax,Pleural Effusion,Pleural Thickening,Lung Opacity,Lung Lesion,Fracture,Support Devices
+CheXpert-v1.0/valid/patient00010/study1/view1.jpg,0,0,1,0,0,0,0,1,0,1,0,0,0
+CheXpert-v1.0/valid/patient00014/study1/view1.jpg,1,0,0,0,0,0,0,0,0,0,0,0,0
+CheXpert-v1.0/valid/patient00020/study2/view2.jpg,0,1,0,1,0,1,0,1,0,1,0,0,1
